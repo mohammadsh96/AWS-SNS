@@ -1,0 +1,24 @@
+{
+  "name": "aws-sns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadsh96/AWS-SNS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadsh96/AWS-SNS/issues"
+  },
+  "homepage": "https://github.com/mohammadsh96/AWS-SNS#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1173.0",
+    "dotenv": "^16.0.1"
+  }
+}
